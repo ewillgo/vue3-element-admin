@@ -1,6 +1,23 @@
 {
   "name": "vue3-element-admin",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "main": "main.js",
+  "author": {
+    "name": "Will Leung",
+    "email": "ewill.leung@foxmail.com"
+  },
+  "description": "Vue3 ElementUI Admin",
+  "keywords": [
+    "Vue3",
+    "Vite",
+    "ElementUI"
+  ],
+  "license": "MIT",
+  "bugs": "https://github.com/ewillgo/vue3-element-admin/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ewillgo/vue3-element-admin.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build"
